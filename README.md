@@ -7,7 +7,7 @@
 
 ##### General Information
 
-- Purpose of the project is to train myself on using useState, useEffect, fetching and working with data, deploying "loading..." true/false functionality
+- Purpose of the project is to train myself on using useState, useEffect, fetching and working with data and props, deploying "loading..." true/false functionality
 
 ##### Technologies Used
 

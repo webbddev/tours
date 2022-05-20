@@ -1,6 +1,7 @@
 ### _Tours project_ with fetched list of tours
 
 > Tours page functionality using useState and useEffect
+> 
 ![](public/tours1.gif)
 ##### General Information
 

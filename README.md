@@ -2,7 +2,7 @@
 
 > Tours page functionality using useState and useEffect
 > 
-![](public/tours1.gif)
+![](public/tours2.gif)
 ##### General Information
 
 - Purpose of the project is to train myself on using useState, useEffect, fetching and working with data, props drilling, deploying "loading..." true/false functionality

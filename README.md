@@ -1,10 +1,7 @@
 ### _Tours project_ with fetched list of tours
 
 > Tours page functionality using useState and useEffect
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
-
-<!-- <hr style="border:1px dotted lightblue"> </hr> -->
-
+![](public/tabs.gif)
 ##### General Information
 
 - Purpose of the project is to train myself on using useState, useEffect, fetching and working with data, props drilling, deploying "loading..." true/false functionality

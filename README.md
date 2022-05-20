@@ -1,7 +1,7 @@
 ### _Tours project_ with fetched list of tours
 
 > Tours page functionality using useState and useEffect
-![](public/tours.gif)
+![](public/tours1.gif)
 ##### General Information
 
 - Purpose of the project is to train myself on using useState, useEffect, fetching and working with data, props drilling, deploying "loading..." true/false functionality
